@@ -34,7 +34,7 @@ export default function App() {
                             />
                         </h1>
 
-                        <p className="font-light text-gray-400 text-md md:text-lg leading-normal mb-12">We provide Internships for peoples of <br /> nationwide to support people who are in need.</p>
+                        <p className="font-light text-gray-400 text-md md:text-lg leading-normal mb-12">We help you automate your calls, <br />and save thousands of man-hours. </p>
 
                         <a href='user/signup'><button className="px-6 py-4 bg-info font-semibold text-black text-lg rounded-xl border-2 border-blue-900 hover:bg-blue-700 transition ease-in-out duration-500 hover:text-white">Create Your AI agent</button></a>
                     </div>
